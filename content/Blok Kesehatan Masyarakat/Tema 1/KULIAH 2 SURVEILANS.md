@@ -23,6 +23,7 @@ Surveilans adalah **pengumpulan, analisis data secara terus-menerus dan sistemat
 
 ## SKEMA SISTEM SURVEILANS
 ![[3.jpg]]
+
 Sistem surveilans bekerja dalam siklus yang melibatkan:
 
 1. **Pengumpulan data** dari berbagai sumber
@@ -75,6 +76,7 @@ Memberikan **informasi tepat waktu** tentang masalah kesehatan populasi, sehingg
 
 ### 1. Deteksi Outbreak
 ![[Blok Kesehatan Masyarakat/Tema 1/Media/4.jpg]]
+
 **Grafik yang dijelaskan:** Grafik menunjukkan hubungan antara periode waktu (sumbu X) dengan insidensi kasus penyakit (sumbu Y).
 
 **Interpretasi:**
@@ -88,6 +90,7 @@ Memberikan **informasi tepat waktu** tentang masalah kesehatan populasi, sehingg
 
 ### 2. Monitoring Efektivitas Program TB
 ![[5.jpg]]
+
 **Grafik yang dijelaskan:** Grafik menunjukkan performa dan efektivitas program pengendalian TB dari waktu ke waktu.
 
 **Kegunaan:**
