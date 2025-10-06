@@ -2216,3 +2216,6 @@ Semangat belajar! Jika ada pertanyaan, jangan ragu untuk bertanya kepada dosen a
 - **TOI:** Turn Over Interval
 - **TT:** Tempat Tidur
 - **UPS:** Uninterruptible Power Supply
+
+---
+tags: #TEMA2KESMAS 

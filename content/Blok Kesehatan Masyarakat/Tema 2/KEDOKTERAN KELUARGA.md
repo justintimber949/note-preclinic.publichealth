@@ -216,5 +216,4 @@ Menurut **WONCA dan IDI**, karakteristik dokter keluarga yang ideal meliputi:
 > Kedokteran keluarga mengingatkan bahwa menjadi dokter bukan hanya tentang menyembuhkan penyakit, tetapi tentang **menjaga kehidupan dan relasi manusia.** Inilah bentuk kedokteran yang paling dekat dengan masyarakat.
 
 ---
-
-**Selesai – Catatan Blok Kedokteran Keluarga**
+tags: #TEMA2KESMAS 
